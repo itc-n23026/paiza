@@ -16,3 +16,5 @@
 - [めがね](./hackathon/megane.py)
 - [cute衣装](./hackathon/cute.py)
 - [sexy衣装](./hackathon/sexy.py)
+- [マイク](./hackathon/mike.py)
+- [カチューシャ](./hackathon/katyusha.py)
