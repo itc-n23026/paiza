@@ -22,6 +22,8 @@
 ## プログラミングで彼女を作る
 
 - [つり目](./kanojo/turimeset.py)
+- [眼帯](./kanojo/eyepatch.py)
+- [猫耳](./kanojo/catear.py)
 - [ショートヘア](./kanojo/shorthairset.py)
 - [ロングヘア](./kanojo/longhairset.py)
 - [ポニーテール](./kanojo/ponytailset.py)
